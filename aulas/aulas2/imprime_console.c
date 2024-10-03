@@ -2,7 +2,7 @@
 
 int main(){
   // imprime texto na tela
-  //printf("te amo ana tu eh\n");
+  
 
   // imprime um numero inteiro
   printf("%i\n", 10);
@@ -20,10 +20,10 @@ int main(){
   printf("%c\n", 0);
 
   // imprime uma string
-  printf("%30s!\n", "quero");
-  printf("%30s!\n", "chupa");
-  printf("%30s!\n", "seu");
-  printf("%30s!\n", "cu");
+  printf("%30s!\n", "oii");
+  printf("%30s!\n", "oiiii");
+  printf("%30s!\n", "oklaaa");
+  printf("%30s!\n", "dfjuezhzh");
 
   
   return 0;
